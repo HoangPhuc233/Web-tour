@@ -42,6 +42,7 @@ SevenTour là một hệ thống quản lý tour du lịch, được thiết k�
 ## Tác giả
 
 - **Bùi Anh Tài**
+- **Lê Hoàng Phuc**
 
 ## Ghi chú
 
